@@ -5,6 +5,6 @@ After creating  the another branch in Amy's Folder commit happens
 Commit done in  same branch in Amy's Folder
 Newly created branch is deleted
 Switching to the John's Folder
-Switched to Amy's Folder and fetched the commit from remote
+Switched to the Amy's Folder and fetched the commit from remote
 New Branch is created
 Another new branch is created and commited
