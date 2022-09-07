@@ -2,3 +2,4 @@ Hello
 Hello
 John Folder is created
 Commit happens in the John's Folder
+Contents are fetched from John's Folder
