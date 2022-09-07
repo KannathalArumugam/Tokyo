@@ -3,3 +3,4 @@ Commit happens in the Amy's folder
 Another commit happens in branch feature
 After deleting the branch in Amy's Folder commit happens
 After creating another branch in Amy's Folder commit happens
+Commit done in the same branch in Amy's Folder
