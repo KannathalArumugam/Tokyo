@@ -1,7 +1,7 @@
 Hey
 Another commit happens in branch feature
 After deleting the branch in Amy's Folder commit happens
-After creating another branch in Amy's Folder commit happens
+After creating  the another branch in Amy's Folder commit happens
 Commit done in the same branch in Amy's Folder
 The newly created branch is deleted
 Switching to John's Folder
